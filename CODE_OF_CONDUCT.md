@@ -1,5 +1,7 @@
 # Contributor Covenant Code of Conduct
 
+> Source of this file: <https://github.com/jrappen/.github/blob/master/CODE_OF_CONDUCT.md>
+
 * [Our pledge](#our-pledge)
 * [Our standards](#our-standards)
 * [Enforcement responsabilities](#enforcement-responsabilities)
