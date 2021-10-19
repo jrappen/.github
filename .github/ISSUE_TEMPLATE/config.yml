@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Community Support
+  - name: Support
     url: https://github.com/jrappen/.github/blob/master/SUPPORT.md
-    about: Please ask and answer questions here.
-  - name: Community Security Policy
+    about: FAQ regarding support. Refer to the community health files repo.
+  - name: Security Policy
     url: https://github.com/jrappen/.github/blob/master/SECURITY.md
-    about: Please read more about how to report security vulnerabilities here.
+    about: FAQ regarding security policy. Refer to the community health files repo.
